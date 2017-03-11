@@ -1,5 +1,8 @@
 _repo: The-Forged-Coupon-and-Other-Stories_243
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: 'Translation of: Falshivyi kupon'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/243#The-Forged-Coupon-and-Other-Stories
 gutenberg_issued: '2006-03-15'
 gutenberg_type: Text
 identifiers:
